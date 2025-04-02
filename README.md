@@ -26,6 +26,4 @@ I’m a Cyber Security Engineer at Goldoak, with a strong academic background in
 
 ---
 
-## :page_with_curl: Full CV in Typst
-I maintain a more detailed **CV** via [**Typst**](https://typst.app). If you’re curious about my detailed education, work history, and technical projects, here’s a snippet of the **Typst** code used for my CV. Feel free to adapt or preview it directly on [typst.app](https://typst.app/):
 

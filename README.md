@@ -1,20 +1,21 @@
 # Hi there, I'm Ozan A.! :wave:
 
 ## :lock: About Me
-I’m a Cyber Security Engineer at Goldoak, with a strong academic background in Cyber Security Management (B.Sc. & M.Sc.). My focus lies on:
-
-- **Security Operations & Incident Response**: Designing and maintaining SOC infrastructures, building SIEM systems, and proactively defending against emerging threats.
-- **Containerized Environments**: Working with Docker & Kubernetes to create scalable, efficient, and secure deployments.
-- **Microservices Development**: Programming in Python (and beyond) to build robust, modular applications.
-- **AI & LLM Integration**: Exploring ways to integrate AI and large language models into security workflows to automate reporting, reduce response times, and enhance vulnerability management.
+I’m a Cyber Security Engineer at Goldoak, with a strong academic background in Cyber Security Management (B.Sc. & M.Sc.).
 
 **Key Highlights**  
 - :mortar_board: **B.Sc. & M.Sc. in Cyber Security Management** from leading German universities  
 - :office: **Current Role**: Cyber Security Engineer at Goldoak GmbH (Lucerne, Switzerland)  
 - :seedling: Passionate about advanced Threat Hunting, Container Security, SIEM, and SOC architectures  
 - :handshake: Open to collaborations on security tooling, automation, and network defense  
-- :email: Reach me via [**LinkedIn**](#)  
+- :email: Reach me via [**LinkedIn**](https://www.linkedin.com/in/ozan-a-96596b309)  
 - :zap: Fun Fact: My journey into cyber security started with curiosity about how network protocols really work, which led me into vulnerability management!
+
+**My current focus:**
+- 🔒 **Security Operations & Incident Response**: Designing and maintaining SOC infrastructures, building SIEM systems, and proactively defending against emerging threats.
+- 📦 **Containerized Environments**: Working with Docker & Kubernetes to create scalable, efficient, and secure deployments.
+- 💻 **Microservices Development**: Programming in Python (and beyond) to build robust, modular applications.
+- 🧠 **AI & LLM Integration**: Exploring ways to integrate AI and large language models into security workflows to automate reporting, reduce response times, and enhance vulnerability management.
 
 ---
 
